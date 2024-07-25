@@ -1,0 +1,8 @@
+#Excluding Simlunk mexgeneration directory
+slprj/
+
+#Excluding simulink cache files
+*.slxc
+
+#Excluding Saved data
+saved_data/
